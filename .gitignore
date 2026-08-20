@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# ArcGIS
+*.lock
+*.gdb/
+*.mdb
+*.aprx.bak
+Index/
+
+# OS
+.DS_Store
+Thumbs.db
