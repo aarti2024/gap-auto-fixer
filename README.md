@@ -13,6 +13,10 @@ gaps between polygon boundaries within a specified tolerance.
 - Detailed progress messages and a fixed/skipped/failed summary on completion
 - Adds the output automatically to the current map (if run inside ArcGIS Pro)
 
+## Tool Interface
+
+![Gap Auto Fixer tool pane](images/tool_ui.jpeg)
+
 ## Requirements
 
 - ArcGIS Pro (Standard license or higher)
